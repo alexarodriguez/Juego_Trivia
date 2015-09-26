@@ -1,0 +1,169 @@
+[	
+	{
+		"pregunta" 	: "¿Cuál es el símbolo químico del hierro?", 
+		"opciones"	: ["Fe", "He", "Hr", "Hi"], 
+		"correcta"	: 1
+	},
+	{
+		"pregunta" 	: "¿Cuántos Planetas tiene el sistema Solar?", 
+		"opciones"	: [3, 10, 8, 9], 
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "¿En qué País Nación Simón Bolivar?", 
+		"opciones"	: ["Perú", "Venezuela", "Colombia", "Nicaragua"], 
+		"correcta"	: 2
+	},
+	{
+		"pregunta" 	: "Platón fue un..", 
+		"opciones"	: ["Pintor", "Filosofo", "Guerrero", "Escultor"], 
+		"correcta"	: 2
+	},
+	{
+		"pregunta" 	: "¿Cuál es la capital de Nicaragua?", 
+		"opciones"	: ["Managua", "Nicaragua", "Manama", "Montevideo"], 
+		"correcta"	: 1
+	},
+	
+	{
+		"pregunta" 	: "El trigo es ..", 
+		"opciones"	: ["Una grasa", "Un cereal ", "Una proteina ", "Un mineral"], 
+		"correcta"	: 2
+	},
+	{
+		"pregunta" 	: "¿Cuál es el primer signo zodiacal?", 
+		"opciones"	: ["Capricornio", "Tauro", "Geminis", "Aries"], 
+		"correcta"	: 4
+	}, 
+	{
+		"pregunta" 	: "Neil Amstrong sera recordado como el hombre que...", 
+		"opciones"	: ["Goberno Boyaca", "Piso la luna", "Invento la electricidad", "Libero a Francia"], 
+		"correcta"	: 2
+	},
+	{
+		"pregunta" 	: "¿Cuál es la moneda de Reino Unido?", 
+		"opciones"	: ["El dolar britanico", "El euro", "La libra esterlina", "La rupia"], 
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "Una foto Panoramica incluye", 
+		"opciones"	: ["Todo el paisaje", "Medio cuerpo", "Sólo rostros", "Sólo las piernas"], 
+		"correcta"	: 1
+	},
+	{
+		"pregunta" 	: "¿Donde esta el vaticano?", 
+		"opciones"	: ["En Bogotá", "En Rumania", "En Roma", "En Francia"], 
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "La ciencia que se dedica al estudio de los seres vivos es la ....", 
+		"opciones"	: ["Biología", "Anatomía", "Sociología", "Física"], 
+		"correcta"	: 1
+	},
+	{
+		"pregunta" 	: "¿Cuáles son los parientes mas cercanos  a los perros?", 
+		"opciones"	: ["Los tigres", "Los zorros", "Los gatos", "Los Lobos"], 
+		"correcta"	: 4
+	},
+	
+	{
+		"pregunta" 	: "¿En que año inicio la primera Guerra Mundial?", 
+		"opciones"	: ["1894", "1914", "1918", "1942"], 
+		"correcta"	: 2
+	},
+	{
+		"pregunta" 	: "¿Cuál es la capital de Egipto?", 
+		"opciones"	: ["Alejandria", "Estambul", "El cairo", "Nilo"], 
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "El que labra la tierra es un ...", 
+		"opciones"	: ["Agricultor", "Alfarero", "Recolector", "Vendedor"], 
+		"correcta"	: 1
+	},
+	{
+		"pregunta" 	: "¿Cómo se llama el triángulo que tiene sus 3 lados iguales?", 
+		"opciones"	: ["Escaleno", "Equilátero", "Ísosceles", "Obtuso"], 
+		"correcta"	: 2
+	},
+	{
+		"pregunta" 	: "Los tacos y enchiladas son platos tipico de ...", 
+		"opciones"	: ["India", "Argentina", "Perú", "México"], 
+		"correcta"	: 4
+	},
+	{
+		"pregunta" 	: "¿En que parte del cuerpo se localiza el corazón del camarón?", 
+		"opciones"	: ["Cola", "Pecho", "Cabeza", "Boca"], 
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "¿Cuál es el mamífero que no tiene cuerdas vocales?", 
+		"opciones"	: ["El ornitorrinco", "El Tigre", "La vaca", "La jirafa"], 
+		"correcta"	: 4
+	},
+	{
+		"pregunta" 	: "¿Cuantos ojos tiene una estrella de mar?", 
+		"opciones"	: ["8", "6", "5", "3"], 
+		"correcta"	: 1
+	},
+	{
+		"pregunta" 	: "Musica tradicional Navideña", 
+		"opciones"	: ["Cumbia", "Mambo", "Villancico", "Merengue"], 
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "¿Que dos paises que no tienen salida al mar?", 
+		"opciones"	: ["Bolivia y Ecuador", "Honduras y Canada", "Venezuela y Chile", "Paraguay y Bolivia"], 
+		"correcta"	: 4
+	},
+	{
+		"pregunta" 	: "El que ayuda un sacerdote es...", 
+		"opciones"	: ["Acólito ", "Ateo", "Hereje", "Alcohólico"], 
+		"correcta"	: 1
+	},
+	{
+		"pregunta" 	: "¿Cuál es la moneda de Rusia?", 
+		"opciones"	: ["El yeltsin", "El rublo", "El yen", "El stalin"], 
+		"correcta"	: 2
+	},
+	{
+		"pregunta" 	: "Marge y Bart son personajes de la serie animada", 
+		"opciones"	: ["Los picapiedra", "Los magnificos", "Los simpsons", "Scooby Doo"], 
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "Piolin el de las caricaturas es...", 
+		"opciones"	: ["Una canario", "un Gato", "Un loro", "Un gallo"], 
+		"correcta"	: 1
+	},
+	{
+		"pregunta" 	: "Planta cuyo fruto es la mora...", 
+		"opciones"	: ["Malva", "Nenufar", "Zarzamora", "Adormidera"], 
+		"correcta"	: 3
+	},
+	{
+		"pregunta" 	: "Las 500 millas de Indianápolis e suna competencia de: ", 
+		"opciones"	: ["Caballos", "Autos", "Motos", "Galgos"], 
+		"correcta"	: 2
+	},
+	{
+		"pregunta" 	: "Los caballos de Fuerza Se aplican a: ", 
+		"opciones"	: ["Los motores ", "Las puestas", "Las estufas ", "Las calculadoras"], 
+		"correcta"	: 1
+	},
+	{
+		"pregunta" 	: "Los ciclopes de la mitologia griega teníán: ", 
+		"opciones"	: ["Dos cuernos ", "Alas", "Cuerpo de caballo ", "Un solo Ojo"], 
+		"correcta"	: 4
+	},
+	{
+		"pregunta" 	: "¿Cómo se llama el amigo dientod de mafalda? ", 
+		"opciones"	: ["Miguel", "Felipe", "Andres", "Manuel"], 
+		"correcta"	: 2
+	},
+	{
+		"pregunta" 	: "El famoso comediante Chespirito protagonizaba la serie :", 
+		"opciones"	: ["El agente 86", "Mision Imposible", "El chavo del 8", "Ultraman"], 
+		"correcta"	: 3
+	}
+]
